@@ -8,7 +8,8 @@ Current Version: 4.0
 This plugin allows you to extend the abilities of the grouped product in Jigoshop
 
 
-Parent Product/;
+Parent Product:
+
 There are 4 settings for the parent product:
 
 1. Add a min number of child items per parent product. Use to require at least X number of items be added per "package". 0=no limit
@@ -17,6 +18,7 @@ There are 4 settings for the parent product:
 4. Add a quantity to parent. Currently does not auto-deduct (will in next version). Useful, if you only wish to sell the product as a limited package (first 100 ordered). When combined with Jigoshop's "Remove item on out of stock", can be used to temp/perm remove item from shop.
 
 Child Product:
+
 There are 2 settings for the child product:
 
 1. Add a min number of child items. Used to require at least X number of child option X be added. Not enforced in this version completely. 0=no limit
