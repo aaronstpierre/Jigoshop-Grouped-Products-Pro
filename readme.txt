@@ -1,7 +1,7 @@
 === Jigoshop Grouped Products Pro ===
 Contributors: chriscct7
-Requires at least: 3.0
-Tested up to: 3.4.1
+Requires at least: 3.4.2
+Tested up to: 3.6 Beta 3
 Contributors: chriscct7
 Donate link: http://donate.chriscct7.com/
 Tags: jigoshop, grouped products, jigoshop grouped products
@@ -15,7 +15,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
 This plugin allows you to extend the abilities of the grouped product in Jigoshop
-This was previously a premium extension, retired per [this blog post of mine](http://chriscct7.me/on-retiring-jigoshop-extensions/).
+
+This was previously a premium extension, made free per [this blog post of mine](http://chriscct7.me/on-retiring-jigoshop-extensions/).
 
 == Installation ==
 
