@@ -2,11 +2,11 @@
 
 Current Version: 4.0
 
+Yet another awesome plugin by [Chris Christoff](http://www.chriscct7.com)
 
 ### Description ###
 
 This plugin allows you to extend the abilities of the grouped product in Jigoshop
-
 
 Parent Product:
 
