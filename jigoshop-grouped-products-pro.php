@@ -304,7 +304,7 @@ if ( !function_exists( 'jigoshop_add_to_cart_action' ) ) { //make function plugg
                 $is_valid = apply_filters( 'jigoshop_add_to_cart_validation', true, $product_id, $quantity );
                 
                 if ( $all_variations_set && $is_valid ) {
-                    jigoshop_cart::add_to_cart( $product_id, $quantity );
+                    jigoshop_cart::add_to_cart( $product_id, $quantity, $variation_id, $variations );
                     $product_added = true;
                 }
                 
